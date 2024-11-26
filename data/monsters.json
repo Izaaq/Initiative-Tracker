@@ -1,0 +1,14 @@
+[
+    {
+        "char_name": "Troll",
+        "dex": 5
+    },
+    {
+        "char_name": "Giant",
+        "dex": 2
+    },
+    {
+        "char_name": "Ogre",
+        "dex": 1
+    }
+]

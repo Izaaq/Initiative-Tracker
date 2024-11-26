@@ -1,0 +1,27 @@
+[
+    {
+        "player_name": "Izaaq",
+        "char_name": "Snorborg",
+        "dex": 15
+    },
+    {
+        "player_name": "Irene",
+        "char_name": "SmeegSmeeg",
+        "dex": 10
+    },
+    {
+        "char_name": "Tobias",
+        "dex": 15,
+        "player_name": "Jeremy"
+    },
+    {
+        "char_name": "Kernonasdg",
+        "dex": 2,
+        "player_name": "Nadree"
+    },
+    {
+        "char_name": "Florkor",
+        "dex": 6,
+        "player_name": "John"
+    }
+]

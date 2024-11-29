@@ -1,5 +1,6 @@
 # Initiative-Tracker
 A simple initiative tracker, meant for use with DnD 5E.
+Downloads are on the right, under "Releases".
 To use:
 1. Unzip and extract the contents of the .zip file to a folder.
 2. Run `initiativeTracker.exe`.
